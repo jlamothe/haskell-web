@@ -1,5 +1,4 @@
 apt-get update
-<<<<<<< HEAD
 apt-get -qy install cabal-install ghc-haddock hlint libghc-zlib-dev
-export HOME=/home/ubuntu
-sudo -u ubuntu /vagrant/vagrant/setup.sh
+export HOME=/home/vagrant
+sudo -u vagrant /vagrant/vagrant/setup.sh
